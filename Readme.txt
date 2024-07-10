@@ -1,16 +1,4 @@
 HI
 
 GM
-<<<<<<< HEAD
-<<<<<<< HEAD
-123
-GN
-GIT
-=======
-DARSHAN
-GN
->>>>>>> 1720861ef67d266d91d7a0b0fc000bed94365adf
-=======
-DARSHAN
-GN
->>>>>>> 1720861ef67d266d91d7a0b0fc000bed94365adf
+12345
